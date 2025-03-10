@@ -65,9 +65,13 @@ namespace oplopg4tcpserver
                         writer.Flush();
                     }
                 }
+                else
+                {
+                    writer.WriteLine(message);
+                    writer.Flush();
+                }
             }
             client.Close();
         }
     }
-
 }
