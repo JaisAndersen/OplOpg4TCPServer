@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oplopg4tcpserver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a411007b9ffaa0858ce9901e73320fdbfa0b7ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0599c106dd38f325986a0738ffa69a0b2b604316")]
 [assembly: System.Reflection.AssemblyProductAttribute("oplopg4tcpserver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oplopg4tcpserver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

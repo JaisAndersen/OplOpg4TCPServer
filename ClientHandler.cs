@@ -37,6 +37,34 @@ namespace oplopg4tcpserver
                         writer.Flush();
                     }
                 }
+                else if (message == "Add")
+                {
+                    writer.WriteLine("Input Numbers");
+                    writer.Flush();
+                    string? addPick = reader.ReadLine();
+                    string[] addPickSplit = addPick.Split(' ');
+                    if (addPick != null)
+                    {
+                        int addPickParsedFirst = Int32.Parse(addPickSplit[0]);
+                        int addPickParsedSecond = Int32.Parse(addPickSplit[1]);
+                        writer.WriteLine(addPickParsedFirst + addPickParsedSecond);
+                        writer.Flush();
+                    }
+                }
+                else if (message == "Substract")
+                {
+                    writer.WriteLine("Input Numbers");
+                    writer.Flush();
+                    string? subPick = reader.ReadLine();
+                    string[] subPickSplit = subPick.Split(' ');
+                    if (subPick != null)
+                    {
+                        int subPickParsedFirst = Int32.Parse(subPickSplit[0]);
+                        int subPickParsedSecond = Int32.Parse(subPickSplit[1]);
+                        writer.WriteLine(subPickParsedFirst - subPickParsedSecond);
+                        writer.Flush();
+                    }
+                }
             }
             client.Close();
         }
