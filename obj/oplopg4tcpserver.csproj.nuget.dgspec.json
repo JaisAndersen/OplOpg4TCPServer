@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaish\\repos\\3semester\\oplopg4tcpserver\\oplopg4tcpserver.csproj": {}
+    "C:\\Users\\jaish\\repos\\3Semester\\OplOpg4TCPServer\\oplopg4tcpserver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaish\\repos\\3semester\\oplopg4tcpserver\\oplopg4tcpserver.csproj": {
+    "C:\\Users\\jaish\\repos\\3Semester\\OplOpg4TCPServer\\oplopg4tcpserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaish\\repos\\3semester\\oplopg4tcpserver\\oplopg4tcpserver.csproj",
+        "projectUniqueName": "C:\\Users\\jaish\\repos\\3Semester\\OplOpg4TCPServer\\oplopg4tcpserver.csproj",
         "projectName": "oplopg4tcpserver",
-        "projectPath": "C:\\Users\\jaish\\repos\\3semester\\oplopg4tcpserver\\oplopg4tcpserver.csproj",
+        "projectPath": "C:\\Users\\jaish\\repos\\3Semester\\OplOpg4TCPServer\\oplopg4tcpserver.csproj",
         "packagesPath": "C:\\Users\\jaish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaish\\repos\\3semester\\oplopg4tcpserver\\obj\\",
+        "outputPath": "C:\\Users\\jaish\\repos\\3Semester\\OplOpg4TCPServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

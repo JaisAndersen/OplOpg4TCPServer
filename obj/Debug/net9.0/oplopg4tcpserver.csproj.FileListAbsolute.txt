@@ -1,0 +1,15 @@
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\bin\Debug\net9.0\oplopg4tcpserver.exe
+C:\Users\jaish\repos\3semester\oplopg4tcpserver\bin\Debug\net9.0\oplopg4tcpserver.deps.json
+C:\Users\jaish\repos\3semester\oplopg4tcpserver\bin\Debug\net9.0\oplopg4tcpserver.runtimeconfig.json
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\bin\Debug\net9.0\oplopg4tcpserver.dll
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\bin\Debug\net9.0\oplopg4tcpserver.pdb
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\obj\Debug\net9.0\oplopg4tcpserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\obj\Debug\net9.0\oplopg4tcpserver.AssemblyInfoInputs.cache
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\obj\Debug\net9.0\oplopg4tcpserver.AssemblyInfo.cs
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\obj\Debug\net9.0\oplopg4tcpserver.csproj.CoreCompileInputs.cache
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\obj\Debug\net9.0\oplopg4tcpserver.sourcelink.json
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\obj\Debug\net9.0\oplopg4tcpserver.dll
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\obj\Debug\net9.0\refint\oplopg4tcpserver.dll
+C:\Users\jaish\repos\3Semester\OplOpg4TCPServer\obj\Debug\net9.0\oplopg4tcpserver.pdb
+C:\Users\jaish\repos\3semester\oplopg4tcpserver\obj\Debug\net9.0\oplopg4tcpserver.genruntimeconfig.cache
+C:\Users\jaish\repos\3semester\oplopg4tcpserver\obj\Debug\net9.0\ref\oplopg4tcpserver.dll
